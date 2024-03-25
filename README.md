@@ -1,2 +1,2 @@
-# STS_DATA_EVAL_BY_LLM
-The repo is created for the evaluation of Semantic Text Similarity of general and domain specific dataset using LLM models
+# Evaluation-of-LLMs-on-STS-Data
+This repo contains a study on performance of LLMs on STS(Semantic Textual Similarity) Data.
